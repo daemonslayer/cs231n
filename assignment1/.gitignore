@@ -1,4 +1,3 @@
 *.swp
 *.pyc
 .env/*
-cs231n/datasets/cifar*
